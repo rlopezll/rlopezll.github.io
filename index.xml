@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>CamperForge Site (github)</title>
+        <title>CamperForge Site</title>
         <link>http://www.camperforge.com/</link>
-        <description>A new video game company. We make video games while we travel the world in our camper van</description>
+        <description>A new video game company. We make video games while we travel the world in our camper van. (Github)</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 Mar 2025 14:55:52 &#43;0100</lastBuildDate>
             <atom:link href="http://www.camperforge.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
