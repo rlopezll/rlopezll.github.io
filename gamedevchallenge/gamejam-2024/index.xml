@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GameJam 2024 :: GameDev Challenge</title>
+    <link>https://camperforge.com/gamedevchallenge/gamejam-2024/index.html</link>
+    <description>Introducción Este año, 2024, la plataforma escogida es la Sega Mega Drive, también conocida como Sega Genesis, que salió en Europa en 1990 y compitió principalmente con la Super Nintendo. Se celebrará el fin de semana del 29 de noviembre al 1 de diciembre de 2024.&#xA;Video de presentación de la plataforma:</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Dec 2024 21:48:13 +0200</lastBuildDate>
+    <atom:link href="https://camperforge.com/gamedevchallenge/gamejam-2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galeria</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2024/gallery/index.html</link>
+      <pubDate>Sat, 28 Dec 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2024/gallery/index.html</guid>
+      <description>Fotos Participantes de la GameDevChallenge, se nos escaparon 2 a ultima hora, que faltan en la foto 😄 Foto del entorno donde estaba ubicada la GameDevChallenge 😍 La barbacoa no pudo faltar, gracias a Dani por alimentarnos a todos.&#x9;🤭</description>
+    </item>
+    <item>
+      <title>Documentación</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2024/docs/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2024/docs/index.html</guid>
+      <description>Especificaciones CPU: Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC) RAM: 64 KB VRAM: 64 KB RAM de Audio: 8 KB Video: Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea. Sonido: Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales. SDK y Documentación Recomendamos usar el SDK SGDK, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.</description>
+    </item>
+    <item>
+      <title>Dónde ir</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2024/donde/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2024/donde/index.html</guid>
+      <description>Información Ya tenemos reserva para el fin de semana del 29 de noviembre al 1 de diciembre.&#xA;El sitio es el siguiente: El Solei Bungalows.&#xA;Tenemos todo el espacio para nosotros, lo que incluye los bungalows y el comedor (donde instalaremos todo el equipo).&#xA;Información sobre el sitio:&#xA;Se incluyen sábanas. NO se incluyen toallas. Hay utensilios de cocina. Hay un mini horno en el comedor. Todos los bungalows incluyen microondas, cocina y baño. Hora de entrada:&#xA;Viernes a mediodía&#xA;Hora de salida:&#xA;Domingo a las 17:00</description>
+    </item>
+    <item>
+      <title>Juegos</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2024/games/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2024/games/index.html</guid>
+      <description>Chonkin - WINNERS 🏆 Mejor Juego y Mejor Tech. Equipo: Missing Texture Miembros: David Soler, Quim Romo, David Gayete, Carlos de la Fuente, Enrique Rubio, Hannah Garcia, Miquel Izquierdo Juego PVP donde dos player luchan para echar a uno de ellos fuera de la plataforma.</description>
+    </item>
+  </channel>
+</rss>

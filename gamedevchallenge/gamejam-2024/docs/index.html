@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr" itemscope itemtype="http://schema.org/Article">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.136.5">
+    <meta name="generator" content="Relearn 7.1.1">
+    <meta name="description" content="Especificaciones CPU: Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC) RAM: 64 KB VRAM: 64 KB RAM de Audio: 8 KB Video: Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea. Sonido: Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales. SDK y Documentación Recomendamos usar el SDK SGDK, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Documentación :: GameDev Challenge">
+    <meta name="twitter:description" content="Especificaciones CPU: Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC) RAM: 64 KB VRAM: 64 KB RAM de Audio: 8 KB Video: Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea. Sonido: Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales. SDK y Documentación Recomendamos usar el SDK SGDK, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.">
+    <meta property="og:url" content="https://camperforge.com/gamedevchallenge/gamejam-2024/docs/index.html">
+    <meta property="og:site_name" content="GameDev Challenge">
+    <meta property="og:title" content="Documentación :: GameDev Challenge">
+    <meta property="og:description" content="Especificaciones CPU: Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC) RAM: 64 KB VRAM: 64 KB RAM de Audio: 8 KB Video: Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea. Sonido: Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales. SDK y Documentación Recomendamos usar el SDK SGDK, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.">
+    <meta property="og:locale" content="en_us">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="GameJam 2024">
+    <meta property="article:published_time" content="2024-10-25T21:48:13+02:00">
+    <meta property="article:modified_time" content="2024-10-25T21:48:13+02:00">
+    <meta itemprop="name" content="Documentación :: GameDev Challenge">
+    <meta itemprop="description" content="Especificaciones CPU: Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC) RAM: 64 KB VRAM: 64 KB RAM de Audio: 8 KB Video: Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea. Sonido: Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales. SDK y Documentación Recomendamos usar el SDK SGDK, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.">
+    <meta itemprop="datePublished" content="2024-10-25T21:48:13+02:00">
+    <meta itemprop="dateModified" content="2024-10-25T21:48:13+02:00">
+    <meta itemprop="wordCount" content="267">
+    <title>Documentación :: GameDev Challenge</title>
+    <link href="/gamedevchallenge/images/favicon.png?1735492368" rel="icon" type="image/png">
+    <link href="/gamedevchallenge/css/fontawesome-all.min.css?1735492368" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/gamedevchallenge/css/fontawesome-all.min.css?1735492368" rel="stylesheet"></noscript>
+    <link href="/gamedevchallenge/css/nucleus.css?1735492368" rel="stylesheet">
+    <link href="/gamedevchallenge/css/auto-complete.css?1735492368" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/gamedevchallenge/css/auto-complete.css?1735492368" rel="stylesheet"></noscript>
+    <link href="/gamedevchallenge/css/perfect-scrollbar.min.css?1735492368" rel="stylesheet">
+    <link href="/gamedevchallenge/css/fonts.css?1735492368" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/gamedevchallenge/css/fonts.css?1735492368" rel="stylesheet"></noscript>
+    <link href="/gamedevchallenge/css/theme.css?1735492368" rel="stylesheet">
+    <link href="/gamedevchallenge/css/theme-relearn-dark.css?1735492368" rel="stylesheet" id="R-variant-style">
+    <link href="/gamedevchallenge/css/chroma-relearn-dark.css?1735492368" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/gamedevchallenge/css/print.css?1735492368" rel="stylesheet" media="print">
+    <script src="/gamedevchallenge/js/variant.js?1735492368"></script>
+    <script>
+      window.relearn = window.relearn || {};
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..\/..';
+      window.relearn.absBaseUri='https:\/\/camperforge.com\/gamedevchallenge';
+      window.relearn.disableAnchorCopy=false;
+      window.relearn.disableAnchorScrolling=false;
+      // variant stuff
+      window.variants && variants.init( [ 'relearn-dark' ] );
+      // translations
+      window.T_Copy_to_clipboard = `Copy to clipboard`;
+      window.T_Copied_to_clipboard = `Copied to clipboard!`;
+      window.T_Copy_link_to_clipboard = `Copy link to clipboard`;
+      window.T_Link_copied_to_clipboard = `Copied link to clipboard!`;
+      window.T_Reset_view = `Reset view`;
+      window.T_View_reset = `View reset!`;
+      window.T_No_results_found = `No results found for "{0}"`;
+      window.T_N_results_found = `{1} results found for "{0}"`;
+    </script>
+  </head>
+  <body class="mobile-support html" data-url="/gamedevchallenge/gamejam-2024/docs/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar">
+        <div class="topbar-wrapper">
+          <div class="topbar-sidebar-divider"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide"><button class="topbar-control" onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button>
+            </div>
+            <div class="topbar-button topbar-button-toc" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="Table of Contents (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li><a href="#especificaciones">Especificaciones</a></li>
+    <li><a href="#sdk-y-documentación">SDK y Documentación</a>
+      <ul>
+        <li><a href="#sgdk">SGDK</a></li>
+        <li><a href="#webs-de-referencias">Webs de referencias</a></li>
+        <li><a href="#video-tutoriales">Video Tutoriales</a></li>
+        <li><a href="#software-recomendado">Software recomendado</a></li>
+        <li><a href="#paleta-de-colores-de-megadrive">Paleta de colores de Megadrive</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/gamedevchallenge/index.html"><span itemprop="name">GAMEDEV CHALLENGE</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><a itemprop="item" href="/gamedevchallenge/gamejam-2024/index.html"><span itemprop="name">GameJam 2024</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li
+            itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">Documentación</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/gamedevchallenge/gamejam-2024/gallery/index.html" title="Galeria (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/gamedevchallenge/gamejam-2024/donde/index.html" title="Dónde ir (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            </div>
+            <div class="topbar-button topbar-button-more" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show"><button class="topbar-control" onclick="toggleTopbarFlyout(this)" type="button" title="More"><i class="fa-fw fas fa-ellipsis-v"></i></button>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable gamejam-2024" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+  </header>
+
+<h1 id="documentación">Documentación</h1>
+
+<h2 id="especificaciones">Especificaciones</h2>
+<ul>
+<li><strong>CPU:</strong> Motorola 68000 de 16 bits a 7.61 MHz (PAL), 7.67 MHz (NTSC)</li>
+<li><strong>RAM:</strong> 64 KB</li>
+<li><strong>VRAM:</strong> 64 KB</li>
+<li><strong>RAM de Audio:</strong> 8 KB</li>
+<li><strong>Video:</strong> Procesador VDP con resolución de hasta 320x224 (NTSC), 320x240 (PAL). 64 colores (contando transparencias, 61 reales) en pantalla. Máximo de 80 sprites, 20 por línea.</li>
+<li><strong>Sonido:</strong> Chip de sonido Yamaha YM2612 de 6 canales, con un chip adicional de sonido de 4 canales.</li>
+</ul>
+<h2 id="sdk-y-documentación">SDK y Documentación</h2>
+<p>Recomendamos usar el SDK <strong>SGDK</strong>, creado por Stephane Dallongeville, el más usado actualmente en la escena indie.</p>
+<h3 id="sgdk">SGDK</h3>
+<ul>
+<li><a href="https://github.com/Stephane-D/SGDK" rel="external" target="_blank">SGDK: <strong>SDK no oficial en GitHub.</strong></a></li>
+<li><a href="https://zerasul.github.io/taller-megadrive/" rel="external" target="_blank">Mega Drive: Instalación y Configuración</a></li>
+</ul>
+<h3 id="webs-de-referencias">Webs de referencias</h3>
+<ul>
+<li><a href="https://segaretro.org/images/1/18/GenesisTechnicalOverview.pdf" rel="external" target="_blank">Genesis Technical Overview PDF</a></li>
+<li><a href="https://segaretro.org/Category:Mega_Drive_technical_information" rel="external" target="_blank">Mega Drive Technical Information</a></li>
+<li><a href="https://danibus.wordpress.com/" rel="external" target="_blank">DANIBUS GAMES</a></li>
+<li><a href="https://rasterscroll.com/mdgraphics/" rel="external" target="_blank">RASTER SCROLL - How To VDP(GFX) works</a></li>
+<li><a href="https://www.ohsat.com/tutorial/mdmisc/creating-graphics-for-md/" rel="external" target="_blank">OHSAT GAMES Tutorial</a></li>
+</ul>
+<h3 id="video-tutoriales">Video Tutoriales</h3>
+<p>Recomendamos ver los tutoriales del canal de YouTube <a href="https://www.youtube.com/@MakeClassicgames" rel="external" target="_blank">Make Classic Games</a> para iniciarse.</p>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=mBxc374eMxg" rel="external" target="_blank">Video de Instalación y Configuración de SGDK</a></li>
+<li><a href="https://www.youtube.com/watch?v=vy3FEQCVrh4" rel="external" target="_blank">Sega Mega Drive (SGDK) 1ª Parte - Crear Juegos para Mega Drive</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL1xqkpO_SvY2_rSwHTBIBxXMqmek--GAb" rel="external" target="_blank">Playlist Sega Genesis &amp; Mega Drive Game Dev</a></li>
+</ul>
+<h3 id="software-recomendado">Software recomendado</h3>
+<p><strong>NOTA</strong>: Este software es una recomendación, priorizando siempre alternativas de código abierto, gratuitas o creadas por pequeños grupos de personas.<!-- raw HTML omitted --><br>
+<em>Evidentemente, podéis usar el software que mejor os funcione, como Adobe Photoshop u otras opciones comerciales.</em></p>
+<ul>
+<li><a href="https://libresprite.github.io" rel="external" target="_blank">Libreprite - Editor de sprites/imagenes paletizadas</a></li>
+<li><a href="https://www.aseprite.org/" rel="external" target="_blank">Aseprite - Editor de sprites/imagenes paletizadas (DE PAGO o compilais el código fuente)</a></li>
+<li><a href="https://www.mapeditor.org/" rel="external" target="_blank">Tiled - Editor para mapas, el formato funciona con las herramientas SGDK)</a></li>
+<li><a href="https://code.visualstudio.com/" rel="external" target="_blank">VS Code - Editor de código</a></li>
+<li><a href="https://segaretro.org/Gens_KMod" rel="external" target="_blank">Gens KMod - Emulador para megadrive</a></li>
+<li><a href="https://github.com/rlopezll/GenesisColors/releases/tag/release_v0.1.1" rel="external" target="_blank">Genesis Color Helper - Applicacion que ayuda a tener los colores de megadrive como referencia.</a></li>
+</ul>
+<h3 id="paleta-de-colores-de-megadrive">Paleta de colores de Megadrive</h3>
+<a href="#R-image-a0f2b4160f4c0b619c3f7993bd51921a" class="lightbox-link"><img alt="Colors" class="noborder lazy lightbox noshadow figure-image" loading="lazy" src="../images/wikicolor.png" style=" height: auto; width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-a0f2b4160f4c0b619c3f7993bd51921a"><img alt="Colors" class="noborder lazy lightbox noshadow lightbox-image" loading="lazy" src="../images/wikicolor.png"></a>
+  <footer class="footline">
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation">
+        <div id="R-header" class="default-animation">
+<img src="/gamedevchallenge/images/logo.png"/>
+        </div>
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <ul>
+          <li><a class="padding" href="/gamedevchallenge/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+        </ul>
+        <hr class="padding">
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div id="R-shortcutmenu-home" class="R-sidebarmenu">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="" data-nav-id="/gamedevchallenge/faqs/index.html"><a class="padding" href="/gamedevchallenge/faqs/index.html">FAQs</a></li>
+            <li class="" data-nav-id="/gamedevchallenge/gamejam-2023/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2023/index.html">GameJam 2023</a><ul id="R-subsections-25d27729309ee46879875135d8440f7c" class="collapsible-menu"></ul></li>
+            <li class="parent " data-nav-id="/gamedevchallenge/gamejam-2024/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2024/index.html">GameJam 2024</a><ul id="R-subsections-93bb4102a0f676e877720b945f6103d1" class="collapsible-menu">
+            <li class="" data-nav-id="/gamedevchallenge/gamejam-2024/gallery/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2024/gallery/index.html">Galeria</a></li>
+            <li class="active " data-nav-id="/gamedevchallenge/gamejam-2024/docs/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2024/docs/index.html">Documentación</a></li>
+            <li class="" data-nav-id="/gamedevchallenge/gamejam-2024/donde/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2024/donde/index.html">Dónde ir</a></li>
+            <li class="" data-nav-id="/gamedevchallenge/gamejam-2024/games/index.html"><a class="padding" href="/gamedevchallenge/gamejam-2024/games/index.html">Juegos</a></li></ul></li>
+          </ul>
+        </div>
+    
+        <div class="padding footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"></div>
+        <div id="R-menu-footer">
+          <hr class="padding default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter">
+          <div id="R-prefooter" class="footerLangSwitch footerVariantSwitch footerVisitedLinks">
+            <ul>
+              <li id="R-select-language-container" class="footerLangSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-language"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-language">Language</label>
+                    <select id="R-select-language" onchange="location = this.querySelector( this.value ).dataset.url;">
+                      <option id="R-select-language-en" value="#R-select-language-en" data-url="/gamedevchallenge/gamejam-2024/docs/index.html" lang="en-us" selected></option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+              <li id="R-select-variant-container" class="footerVariantSwitch">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-paint-brush"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <label class="a11y-only" for="R-select-variant">Theme</label>
+                    <select id="R-select-variant" onchange="window.variants && variants.changeVariant( this.value );">
+                      <option id="R-select-variant-relearn-dark" value="relearn-dark" selected>Relearn Dark</option>
+                    </select>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+                <script>window.variants && variants.markSelectedVariant();</script>
+              </li>
+              <li class="footerVisitedLinks">
+                <div class="padding menu-control">
+                  <i class="fa-fw fas fa-history"></i>
+                  <span>&nbsp;</span>
+                  <div class="control-style">
+                    <button onclick="clearHistory();">Clear History</button>
+                  </div>
+                  <div class="clear"></div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <div id="R-footer" class="footerFooter showFooter">
+        <p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p>
+          </div>
+        </div>
+      </div>
+    </aside>
+    <script src="/gamedevchallenge/js/clipboard.min.js?1735492368" defer></script>
+    <script src="/gamedevchallenge/js/perfect-scrollbar.min.js?1735492368" defer></script>
+    <script src="/gamedevchallenge/js/theme.js?1735492368" defer></script>
+  </body>
+</html>

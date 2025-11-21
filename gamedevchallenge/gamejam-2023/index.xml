@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GameJam 2023 :: GameDev Challenge</title>
+    <link>https://camperforge.com/gamedevchallenge/gamejam-2023/index.html</link>
+    <description>Introducción Este año, 2023, la plataforma escogida es la Sony PlayStation, también conocida como PS o PS One, que salió en Europa en 1995 y compitió principalmente con la Nintendo 64 y el Sega Saturn. Se celebrará el fin de semana del 13 al 15 de enero de 2023.&#xA;Video de presentación de la plataforma:</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 21:48:13 +0200</lastBuildDate>
+    <atom:link href="https://camperforge.com/gamedevchallenge/gamejam-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Documentación</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2023/docs/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2023/docs/index.html</guid>
+      <description>Especificaciones CPU: R3000 a 33.8688 MHz RAM: 2 MB VRAM: 1 MB Nota: Ten en cuenta que no hay coma flotante (floats); los cálculos con decimales se pueden hacer, pero con coma fija. Frameworks Aquí tenéis el framework que hemos estado preparando. Está en una versión muy, muy temprana y seguiremos trabajando en los próximos días. Si alguien quiere colaborar, se lo agradeceremos mucho; abriremos un canal exclusivamente para quienes colaboren en el framework.</description>
+    </item>
+    <item>
+      <title>Galeria</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2023/gallery/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2023/gallery/index.html</guid>
+      <description>Fotos Todo listo para la GameJam 🚗 Cualquiera diria que son las tantas de la mañana! 🙆 Los ultimos en marchar 🤯 CDs Gold de los juegos de la GameJam 💗</description>
+    </item>
+    <item>
+      <title>Juegos</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2023/games/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2023/games/index.html</guid>
+      <description>Ander Tanker Game Equipo: Anderfire Team Miembros: Alber del Arco, Ander Celaya, Miquel Izquierdo, Ramón García&#xA;Juego PVP con pantalla partida, de batallas de tanques (con bigote 😵).&#xA;Blacksmith Survivors Equipo: DEMO1 Team Miembros: Alex Xamena, Gabi Arroyo, James Phelan, Manel Hidalgo, Óscar Boix&#xA;Juego tipo Bullet Hell, en el que tienes que derrotar enemigos específicos mientras evitas a los demás.&#xA;Captain Rubens Seabot Adventure Game Equipo: TODO Team Miembros: Dani Galacho, David Serrat, David Soler, Enrique Rubio, Quim Romo&#xA;Juego loco de pilotar un barco que debe llegar a su destino en Novarama. El equipo usó Unreal para poder editar los niveles.&#xA;D.E.S.C.O.N.T.R.O.L - WINNERS 🏆 Equipo: Abathur Team Miembros: Arturo Galbete, Miriam Aranda, Ramón Viladomat, Rubén López&#xA;Juego cooperativo local en el que los jugadores deben controlar las maletas que pasan por cintas de aeropuerto, detectando si alguna lleva elementos peligrosos. Curiosamente, se usan gafas de cartón anaglifo para ocultar información a los jugadores.</description>
+    </item>
+  </channel>
+</rss>

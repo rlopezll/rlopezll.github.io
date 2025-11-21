@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GAMEDEV CHALLENGE :: GameDev Challenge</title>
+    <link>https://camperforge.com/gamedevchallenge/index.html</link>
+    <description>GameDev Challenge es una game jam que se celebra anualmente y en la que se priorizan la colaboración, el aprendizaje y el reto por encima de todo.&#xA;Existen 4 reglas fundamentales:&#xA;La plataforma sobre la que se desarrolla es secreta y solo se desvela 1 mes antes del evento. El tema se decide al azar de entre varios candidatos, el mismo día del evento. La game jam empieza un viernes por la tarde (aproximadamente a las 20:00) y termina el domingo sobre las 12:00. Dado que normalmente dormimos y convivimos en un mismo recinto, y por temas de seguridad y comodidad para todos, solo se puede participar en el evento si se es invitado por alguien que ya esté participando. Por lo tanto, es un evento privado, accesible solo con invitación.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2024 21:48:13 +0200</lastBuildDate>
+    <atom:link href="https://camperforge.com/gamedevchallenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FAQs</title>
+      <link>https://camperforge.com/gamedevchallenge/faqs/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/faqs/index.html</guid>
+      <description>Preguntas y Respuestas Nunca he estado en una Jam, ¿de qué va esto?&#xA;Una Jam es un evento en el que la gente compite con cierto reto. El reto normalmente es el tema del juego; en nuestro caso, lo es la plataforma y el tema.&#xA;¿Se duerme durante la Jam?&#xA;La idea es dormir relativamente poco. De hecho, puede que no haya camas para todos y tengamos que turnarnos para hacer una minisiesta.</description>
+    </item>
+    <item>
+      <title>GameJam 2023</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2023/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2023/index.html</guid>
+      <description>Introducción Este año, 2023, la plataforma escogida es la Sony PlayStation, también conocida como PS o PS One, que salió en Europa en 1995 y compitió principalmente con la Nintendo 64 y el Sega Saturn. Se celebrará el fin de semana del 13 al 15 de enero de 2023.&#xA;Video de presentación de la plataforma:</description>
+    </item>
+    <item>
+      <title>GameJam 2024</title>
+      <link>https://camperforge.com/gamedevchallenge/gamejam-2024/index.html</link>
+      <pubDate>Fri, 25 Oct 2024 21:48:13 +0200</pubDate>
+      <guid>https://camperforge.com/gamedevchallenge/gamejam-2024/index.html</guid>
+      <description>Introducción Este año, 2024, la plataforma escogida es la Sega Mega Drive, también conocida como Sega Genesis, que salió en Europa en 1990 y compitió principalmente con la Super Nintendo. Se celebrará el fin de semana del 29 de noviembre al 1 de diciembre de 2024.&#xA;Video de presentación de la plataforma:</description>
+    </item>
+  </channel>
+</rss>

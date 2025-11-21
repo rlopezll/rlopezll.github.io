@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQs :: GameDev Challenge</title>
+    <link>https://camperforge.com/gamedevchallenge/faqs/index.html</link>
+    <description>Preguntas y Respuestas Nunca he estado en una Jam, ¿de qué va esto?&#xA;Una Jam es un evento en el que la gente compite con cierto reto. El reto normalmente es el tema del juego; en nuestro caso, lo es la plataforma y el tema.&#xA;¿Se duerme durante la Jam?&#xA;La idea es dormir relativamente poco. De hecho, puede que no haya camas para todos y tengamos que turnarnos para hacer una minisiesta.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://camperforge.com/gamedevchallenge/faqs/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
