@@ -1,0 +1,80 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - CamperForge Site</title>
+        <link>http://www.camperforge.com/posts/</link>
+        <description>All Posts | CamperForge Site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 07 Mar 2025 14:55:52 &#43;0100</lastBuildDate><atom:link href="http://www.camperforge.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>About us</title>
+    <link>http://www.camperforge.com/posts/about/</link>
+    <pubDate>Fri, 07 Mar 2025 14:55:52 &#43;0100</pubDate>
+    <author>CamperForge</author>
+    <guid>http://www.camperforge.com/posts/about/</guid>
+    <description><![CDATA[<p>For over a year, we have been working on our first game. During this time, we’ve also participated in several game jams to refine our skills and improve our teamwork.</p>
+<p>We are developing our first game using Unreal Engine, working from our camper and occasionally from our home office.</p>
+<h1 id="team-members">Team Members</h1>
+<center></center>
+<p>Miriam - <strong>Design</strong></p>
+<p>I love level design, and I hope you’ll soon get to see our upcoming game, into which we’ve poured a lot of effort and passion.</p>
+</br>
+<hr>
+<center></center>
+<p>Ruben - <strong>Programming</strong></p>
+<p>I’ve been making video games for over 20 years, using all kinds of engines—both proprietary and commercial—for a wide range of platforms. For the first time, we’re doing it in our own indie studio. I hope that, together with Miriam, we can soon show you what we’ve been working on.</p>
+</br>
+<hr>
+<center></center>
+<p>Nymeria - <strong>I do so many things that I wouldn&rsquo;t know where to start&hellip;</strong></p>
+<p>The fluffiest and most energetic member of the team!</p>
+<h1 id="office">Office</h1>
+<p>Our offices :)</p>
+
+<p><em><strong>Mobile Office</strong></em></p>
+</br>
+<hr>
+</br>
+
+<p><em><strong>Fixed Office</strong></em></p>]]></description>
+</item>
+<item>
+    <title>GameDev Challenge</title>
+    <link>http://www.camperforge.com/posts/gamedevchallenge/</link>
+    <pubDate>Fri, 07 Mar 2025 14:55:52 &#43;0100</pubDate>
+    <author>CamperForge</author>
+    <guid>http://www.camperforge.com/posts/gamedevchallenge/</guid>
+    <description><![CDATA[<h1 id="gamedev-challenge">GameDev Challenge</h1>
+<p>We have been organizing this game jam for a couple of years, where we develop retro games for their respective platforms without using game engines or commercial tools—all within a single weekend.</p>
+<p>You can check out our website <a href="http://www.camperforge.com/gamedevchallenge" target="_blank" rel="noopener noreffer ">here</a>.</p>
+</br>
+<p></p>
+</br>
+<p></p>]]></description>
+</item>
+<item>
+    <title>Gamejams</title>
+    <link>http://www.camperforge.com/posts/gamejams/</link>
+    <pubDate>Fri, 07 Mar 2025 14:55:52 &#43;0100</pubDate>
+    <author>CamperForge</author>
+    <guid>http://www.camperforge.com/posts/gamejams/</guid>
+    <description><![CDATA[<h1 id="games">Games</h1>
+<p>A list of the game jams we have participated in.</p>
+</br>
+<h3 id="descontrol---playstation-one-2023">D.E.S.C.O.N.T.R.O.L - Playstation One (2023)</h3>
+<p><em>Developed during the GameDevChallenge</em>
+</br></p>
+<p>A local co-op game where players must manage suitcases moving along airport conveyor belts, detecting if any contain dangerous items. Interestingly, <strong>anaglyph cardboard glasses</strong> are used to hide information from the players.</p>
+
+
+    
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/bCnY-NqPU7w?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
+      ></iframe>
+    </div>
+
+</br>
+<hr>
+<h3 id="crazy-tetris---unreal-pc-2024">Crazy Tetris - Unreal PC (2024)</h3>
+<p><em>Developed during the Cádiz - Lanzarote ferry trip, in 12 hours</em>
+</br></p>]]></description>
+</item>
+</channel>
+</rss>
