@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:CamperForge
+ORG:CamperForge
+TEL;TYPE=WORK:+34XXXXXXXXX
+EMAIL:contacto@camperforge.com
+URL:https://camperforge.com
+ADR;TYPE=WORK:;;Dirección;Barcelona;;Código Postal;Spain
+END:VCARD
