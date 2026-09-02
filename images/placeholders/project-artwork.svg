@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Project artwork placeholder</title>
+  <desc id="desc">Temporary artwork placeholder for a professional game project.</desc>
+  <defs><radialGradient id="bg"><stop stop-color="#31495d"/><stop offset="1" stop-color="#10151e"/></radialGradient></defs>
+  <rect width="600" height="600" fill="url(#bg)"/><circle cx="300" cy="260" r="120" fill="none" stroke="#f72b5c" stroke-width="8" opacity=".6"/><path d="M145 420h310M205 475h190" stroke="#ffe97f" stroke-width="12" opacity=".75"/><text x="300" y="105" fill="#f72b5c" font-family="Arial,sans-serif" font-size="24" letter-spacing="4" text-anchor="middle">PROJECT ART</text><text x="300" y="530" fill="#fff" font-family="Arial,sans-serif" font-size="24" text-anchor="middle">REPLACE IMAGE</text>
+</svg>

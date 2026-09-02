@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Co-op horror game placeholder</title>
+  <desc id="desc">Temporary artwork placeholder for the CamperForge horror game.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#17121d"/><stop offset="1" stop-color="#17384a"/></linearGradient><linearGradient id="beam" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff2e66" stop-opacity=".2"/><stop offset=".5" stop-color="#ff2e66" stop-opacity=".8"/><stop offset="1" stop-color="#ff2e66" stop-opacity="0"/></linearGradient></defs>
+  <rect width="800" height="800" fill="url(#bg)"/><path d="M120 0L530 800H190L0 230V0Z" fill="url(#beam)"/><path d="M650 0L370 800h-90L540 0Z" fill="#f72b5c" opacity=".12"/><path d="M0 635 Q250 570 800 630 V800 H0Z" fill="#090b12"/><path d="M210 610 Q400 470 590 610" fill="none" stroke="#f72b5c" stroke-width="9" opacity=".9"/><text x="64" y="112" fill="#f72b5c" font-family="Arial,sans-serif" font-size="28" letter-spacing="6">CO-OP HORROR</text><text x="64" y="710" fill="#fff" font-family="Arial,sans-serif" font-size="34" font-weight="700">GAME ARTWORK</text><text x="64" y="752" fill="#a9a9b3" font-family="Arial,sans-serif" font-size="24">PLACEHOLDER 02</text>
+</svg>
