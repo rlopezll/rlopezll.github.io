@@ -2,75 +2,75 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://127.0.0.1:14131/about/</loc><xhtml:link
+            <loc>/about/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/about/"
+                        href="/es/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/about/"
+                    href="/about/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/</loc><xhtml:link
+            <loc>/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/"
+                        href="/es/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/"
+                    href="/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/categories/</loc><xhtml:link
+            <loc>/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/categories/"
+                        href="/es/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/categories/"
+                    href="/categories/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/contact/</loc><xhtml:link
+            <loc>/contact/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/contact/"
+                        href="/es/contact/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/contact/"
+                    href="/contact/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/gamedevchallenge/</loc><xhtml:link
+            <loc>/gamedevchallenge/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/gamedevchallenge/"
+                        href="/es/gamedevchallenge/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/gamedevchallenge/"
+                    href="/gamedevchallenge/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/gamejams/</loc><xhtml:link
+            <loc>/gamejams/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/gamejams/"
+                        href="/es/gamejams/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/gamejams/"
+                    href="/gamejams/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/services/</loc><xhtml:link
+            <loc>/services/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/services/"
+                        href="/es/services/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/services/"
+                    href="/services/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/tags/</loc><xhtml:link
+            <loc>/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="es"
-                        href="http://127.0.0.1:14131/es/tags/"
+                        href="/es/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="en"
-                    href="http://127.0.0.1:14131/tags/"
+                    href="/tags/"
                     /></url></urlset>

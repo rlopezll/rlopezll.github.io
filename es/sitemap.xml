@@ -2,75 +2,75 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://127.0.0.1:14131/es/</loc><xhtml:link
+            <loc>/es/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/"
+                        href="/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/"
+                    href="/es/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/categories/</loc><xhtml:link
+            <loc>/es/categories/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/categories/"
+                        href="/categories/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/categories/"
+                    href="/es/categories/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/contact/</loc><xhtml:link
+            <loc>/es/contact/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/contact/"
+                        href="/contact/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/contact/"
+                    href="/es/contact/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/gamedevchallenge/</loc><xhtml:link
+            <loc>/es/gamedevchallenge/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/gamedevchallenge/"
+                        href="/gamedevchallenge/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/gamedevchallenge/"
+                    href="/es/gamedevchallenge/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/gamejams/</loc><xhtml:link
+            <loc>/es/gamejams/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/gamejams/"
+                        href="/gamejams/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/gamejams/"
+                    href="/es/gamejams/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/services/</loc><xhtml:link
+            <loc>/es/services/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/services/"
+                        href="/services/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/services/"
+                    href="/es/services/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/about/</loc><xhtml:link
+            <loc>/es/about/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/about/"
+                        href="/about/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/about/"
+                    href="/es/about/"
                     /></url><url>
-            <loc>http://127.0.0.1:14131/es/tags/</loc><xhtml:link
+            <loc>/es/tags/</loc><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="http://127.0.0.1:14131/tags/"
+                        href="/tags/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="es"
-                    href="http://127.0.0.1:14131/es/tags/"
+                    href="/es/tags/"
                     /></url></urlset>
